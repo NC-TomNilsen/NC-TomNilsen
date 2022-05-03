@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NC-TomNilsen, I just finished my Electrical Engineering degree and I just started a Hardware/Firmware Engineering position with Next Century Submetering
+- 👋 Hi, I’m @NC-TomNilsen, I finished my Electrical Engineering degree in December 2021 and I am a Hardware/Firmware Engineer for Next Century Submetering
 - 📫 You can reach me at: tnilsen@nextcenturymeters.com
 
 <!---
